@@ -1,0 +1,15 @@
+#Professional Biography
+##Anthony Shepard
+Phone: 216-280-9122
+Email: sheparaj@mail.uc.edu
+
+##Co-op Experience:
+###MetroHealth NOC Intern - Cleveland, OH
+June - May 2023:
+  - Auditted data center and updated online inventory.
+  - Actively monitored network performance, ensuring optimal operation and minimal downtime.
+  - Responded to and resolved network incidents, troubleshooting connectivity issues, and performing root cause analysis to prevent recurrence.
+  - Managed escalation procedures for complex issues, coordinating with senior engineers and other departments to expedite resolution.
+  - Provided techincal support to clients, handling inquiries and issues related to network services and ensuring customer satisfaction thorugh effective communication and problem resolution.
+  - Techical Skills: Network troubleshooting, performance monitoring, incident management
+  - Soft Skills: Problem-solving abilities, effective communication, teamwork, and attention to detail.
